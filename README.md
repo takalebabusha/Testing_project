@@ -1,6 +1,6 @@
-# Guru99 Banking System - End-to-End QA & SDET Portfolio Project
+# Banking System - End-to-End QA & SDET Portfolio Project
 
-This repository serves as a comprehensive Software Testing & Test Automation portfolio project based on the **Guru99 Net Banking Facility**. It showcases a complete testing lifecycle, from initial Requirement Analysis and Manual Testing artifacts to a robust Automated Testing Framework built with **Java, Selenium WebDriver, and TestNG**.
+This repository serves as a comprehensive Software Testing & Test Automation portfolio project based on a **Net Banking Facility**. It showcases a complete testing lifecycle, from initial Requirement Analysis and Manual Testing artifacts to a robust Automated Testing Framework built with **Java, Selenium WebDriver, and TestNG**.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -41,11 +41,11 @@ The framework uses the **Page Object Model** design pattern to separate test log
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Guru99-SW-Tesing-Project-1.git
+   git clone https://github.com/takalebabusha/Testing_project.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd Guru99-SW-Tesing-Project-1
+   cd Testing_project
    ```
 3. **Execute the Maven command**:
    ```bash
@@ -58,8 +58,6 @@ The framework uses the **Page Object Model** design pattern to separate test log
 ## ⚙️ CI/CD Pipeline
 
 A CI/CD pipeline has been implemented using **GitHub Actions**. Every push or pull request to the `main` branch automatically triggers the test suite on a headless Ubuntu environment.
-
-You can view the workflow configuration in `.github/workflows/selenium-tests.yml`.
 
 ---
 

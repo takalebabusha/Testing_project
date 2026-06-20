@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Guru99 Banking Test Suite">
+<suite name="Banking System Test Suite">
     <test name="Login and Basic Scenarios">
         <classes>
             <class name="tests.LoginTest"/>
